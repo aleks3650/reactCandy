@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactCandy/static/css/main.dfb07cfc.css",
+    "main.js": "/reactCandy/static/js/main.b9ed0710.js",
+    "static/js/787.0f8d78ff.chunk.js": "/reactCandy/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/reactCandy/index.html",
+    "main.dfb07cfc.css.map": "/reactCandy/static/css/main.dfb07cfc.css.map",
+    "main.b9ed0710.js.map": "/reactCandy/static/js/main.b9ed0710.js.map",
+    "787.0f8d78ff.chunk.js.map": "/reactCandy/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb07cfc.css",
+    "static/js/main.b9ed0710.js"
+  ]
+}
